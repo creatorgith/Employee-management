@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "axios": "^1.6.4",
+    "bootstrap": "^5.2.3",
+    "laravel-vite-plugin": "^1.0.0",
+    "sass": "^1.56.1",
+    "vite": "^5.0.0",
+    "vue": "^3.2.37"
+  },
+  "dependencies": {
+    "alpinejs": "^3.14.0",
+    "amqplib": "^0.10.4",
+    "css": "^3.0.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "sweetalert2": "^11.6.13",
+    "tailwind": "^4.0.0"
+  },
+  "name": "demo-app",
+  "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\" alt=\"Laravel Logo\"></a></p>",
+  "version": "1.0.0",
+  "main": "tailwindcss-config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
